@@ -1,6 +1,6 @@
 # Implementation and Analysis of Neural Networks for Liver Disease Diagnosis
 
-This repository contains the implementation and analysis of various neural networks and machine learning algorithms developed from scratch to gain a deeper understanding of how these models function. The project focuses on classifying liver disease using the Indian Liver Patient Dataset and explores a variety of learning techniques, neural network architectures, and methods to optimize weight adaptation for enhanced performance. Additionally, an Exploratory Data Analysis (EDA) was conducted to better understand the dataset prior to model building.
+This repository contains the implementation and analysis of various neural networks and machine learning algorithms developed from ***scratch*** to gain a deeper understanding of how these models function. The project focuses on classifying liver disease using the Indian Liver Patient Dataset and explores a variety of learning techniques, neural network architectures, and methods to optimize weight adaptation for enhanced performance. Additionally, an Exploratory Data Analysis (EDA) was conducted to better understand the dataset prior to model building.
 
 > **📝 Note:** Detailed reports and code for each algorithm have been included, where you can explore the analysis, findings, and the implementation of the algorithms.
 
